@@ -1,0 +1,13 @@
+Package: blackbeard
+Title: Survey Analysis Tools for UTA Brand Studio
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Laurence",
+           family = "Vincent",
+           role = c("aut", "cre"),
+           email = "vincentl@unitedtalent.com",
+           comment = c(ORCID = "0000-0002-1330-894X"))
+Description: A suite of functions commonly used in survey analysis.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
